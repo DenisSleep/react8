@@ -1,0 +1,13 @@
+.catalog_grid {
+    display: grid;
+    grid-template-columns: repeat(3, 420px);
+    justify-content: space-between;
+    row-gap: 40px;
+}
+
+.catalog_title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    margin-top: 200px;
+}
